@@ -1,0 +1,9 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1706973592006,249,Login,200,OK,Thread Group 1-1,text,true,,618,314,1,1,https://dmoney.roadtocareer.net/user/login,243,0,211
+1706973592280,19,Agent create,200,OK,Thread Group 1-1,text,true,,375,624,1,1,https://dmoney.roadtocareer.net/transaction/balance/01756124562,19,0,0
+1706973592300,20,Customer create,208,Already Reported,Thread Group 1-1,text,true,,397,611,1,1,https://dmoney.roadtocareer.net/user/create,20,0,0
+1706973592321,25,Deposit  system to Agent,208,Already Reported,Thread Group 1-1,text,true,,437,536,1,1,https://dmoney.roadtocareer.net/transaction/deposit,25,0,0
+1706973592348,19,Deposit  Agent to Customer,208,Already Reported,Thread Group 1-1,text,true,,419,541,1,1,https://dmoney.roadtocareer.net/transaction/deposit,19,0,0
+1706973592368,15,Check Customer balance,200,OK,Thread Group 1-1,text,true,,375,441,1,1,https://dmoney.roadtocareer.net/transaction/balance/01756124562,15,0,0
+1706973592384,22,Withdraw from customer,208,Already Reported,Thread Group 1-1,text,true,,418,541,1,1,https://dmoney.roadtocareer.net/transaction/withdraw,22,0,0
+1706973592408,21,Payment customer to marchant,208,Already Reported,Thread Group 1-1,text,true,,418,540,1,1,https://dmoney.roadtocareer.net/transaction/payment,21,0,0
